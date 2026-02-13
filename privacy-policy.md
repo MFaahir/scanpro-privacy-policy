@@ -102,5 +102,5 @@ By using the App, you acknowledge that you have read and understand this Privacy
 ---
 
 **ScanPro - PDF Scanner**  
-Developed by [Your Name/Company Name]  
+Developed by Faahir
 Version 1.0.0
